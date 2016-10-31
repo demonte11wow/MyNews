@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNews</string>
+    <string name="transition_test">text</string>
+
+    <integer-array name="material_colors">
+        <item>@color/material_red</item>
+        <item>@color/material_green</item>
+        <item>@color/material_blue</item>
+        <item>@color/material_yellow</item>
+    </integer-array>
+</resources>

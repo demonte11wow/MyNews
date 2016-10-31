@@ -1,0 +1,2 @@
+include ':app', ':SlidingMenu_library', ':xutils_library', ':ViewPagerIndicator_library', ':Refresh_library', ':AndroidAndH5', ':JPushExample(538700)', ':PullToRefresh_library', ':PhotoView_library', ':MyRecyclerview', ':MaterialRefreshLayout_library', ':addsubviewdemo'
+include ':alipay_demo'

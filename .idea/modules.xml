@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAndH5/AndroidAndH5.iml" filepath="$PROJECT_DIR$/AndroidAndH5/AndroidAndH5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample(538700)/JPushExample(538700).iml" filepath="$PROJECT_DIR$/JPushExample(538700)/JPushExample(538700).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyNews.iml" filepath="$PROJECT_DIR$/MyNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRecyclerview/MyRecyclerview.iml" filepath="$PROJECT_DIR$/MyRecyclerview/MyRecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" filepath="$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" filepath="$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refresh_library/Refresh_library.iml" filepath="$PROJECT_DIR$/Refresh_library/Refresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addsubviewdemo/addsubviewdemo.iml" filepath="$PROJECT_DIR$/addsubviewdemo/addsubviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay_demo/alipay_demo.iml" filepath="$PROJECT_DIR$/alipay_demo/alipay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils_library/xutils_library.iml" filepath="$PROJECT_DIR$/xutils_library/xutils_library.iml" />
+    </modules>
+  </component>
+</project>
